@@ -1,0 +1,22 @@
+{
+  "name": "nlogin",
+  "version": "0.0.0",
+  "description": "Easy and efficient login system for nodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/nebula-developer/nlogin"
+  },
+  "keywords": [
+    "login",
+    "nodejs"
+  ],
+  "author": "NebulaDev",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "index.js": "^0.0.3"
+  }
+}
